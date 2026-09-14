@@ -20,4 +20,4 @@ println!("{} candles from seed {}", out.candles.len(), spec.seed);
 
 - [crates.io/crates/wickra-synth](https://crates.io/crates/wickra-synth) - [docs.rs](https://docs.rs/wickra-synth)
 - [Source & examples](https://github.com/wickra-lib/wickra-synth/tree/main/examples/rust)
-- [GenSpec & regimes](https://github.com/wickra-lib/wickra-synth/blob/main/docs/SPEC.md)
+- [GenSpec & regimes](https://github.com/wickra-lib/wickra-synth/blob/main/docs/GENSPEC.md)
