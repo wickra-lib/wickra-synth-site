@@ -16,7 +16,7 @@ hero:
       link: https://github.com/wickra-lib/wickra-synth
     - theme: alt
       text: GenSpec & regimes
-      link: https://github.com/wickra-lib/wickra-synth/blob/main/docs/SPEC.md
+      link: https://github.com/wickra-lib/wickra-synth/blob/main/docs/GENSPEC.md
     - theme: alt
       text: API
       link: /api/rust
