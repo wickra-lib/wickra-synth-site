@@ -36,7 +36,7 @@ features:
     details: "The core is a JSON-over-C-ABI data API (Synth::command_json) in Rust, Python, Node.js, WASM, C, C++, C#, Go, Java and R. A developer in any language draws the same synthetic market."
   - icon: 🔌
     title: Drops into the ecosystem
-    details: "Output mirrors the JSON shapes of the rest of Wickra, so a generated stream feeds any of the 514 indicators of the Wickra core, a backtest, a screen or an RL environment unchanged."
+    details: "Output mirrors the JSON shapes of the rest of Wickra, so a generated stream feeds any of the 515 indicators of the Wickra core, a backtest, a screen or an RL environment unchanged."
   - icon: 🧪
     title: Deterministic, proven
     details: The same seed replays the exact same stream, pinned by a golden corpus replayed through all ten bindings in CI. No wall-clock, no OS entropy — the RNG is portable and reproducible.
